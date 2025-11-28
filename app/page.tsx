@@ -23,7 +23,7 @@ export default function Home() {
         <section className="w-full max-w-2xl flex flex-col items-center text-center py-12">
           <div className="mb-6">
             <img
-              src="https://placehold.co/120x120?text=AI"
+              src="/ChatGPT icon cropped.png"
               alt="AI企業速報くん"
               className="mx-auto rounded-full border-4 border-[#0051a8] bg-white shadow"
               width={120}
@@ -56,7 +56,7 @@ export default function Home() {
           <div className="flex flex-col items-center bg-white rounded-xl shadow p-6">
             <MessageCircle className="text-[#0051a8] mb-2" size={36} />
             <h3 className="font-bold text-lg mb-1">AI翻訳・要約</h3>
-            <p className="text-sm text-gray-600 text-center">難解な決算資料や海外情報を、AIが3行で要約</p>
+            <p className="text-sm text-gray-600 text-center">難解な決算資料や海外情報を、AIが要約</p>
           </div>
           <div className="flex flex-col items-center bg-white rounded-xl shadow p-6">
             <Smartphone className="text-[#0051a8] mb-2" size={36} />
@@ -96,11 +96,11 @@ export default function Home() {
           <h2 className="text-lg font-bold text-white mb-4 text-center">特定商取引法に基づく表記</h2>
           <div className="bg-white rounded-xl shadow p-6 text-sm text-gray-800 leading-relaxed">
             <dl className="space-y-2">
-              <div className="flex flex-col sm:flex-row"><dt className="font-semibold w-48">販売業者</dt><dd className="ml-0 sm:ml-2">[あなたの氏名または屋号]</dd></div>
-              <div className="flex flex-col sm:flex-row"><dt className="font-semibold w-48">運営統括責任者名</dt><dd className="ml-0 sm:ml-2">[代表者氏名]</dd></div>
-              <div className="flex flex-col sm:flex-row"><dt className="font-semibold w-48">所在地</dt><dd className="ml-0 sm:ml-2">[郵便番号・住所を入力]</dd></div>
-              <div className="flex flex-col sm:flex-row"><dt className="font-semibold w-48">電話番号</dt><dd className="ml-0 sm:ml-2">[電話番号を入力]</dd></div>
-              <div className="flex flex-col sm:flex-row"><dt className="font-semibold w-48">メールアドレス</dt><dd className="ml-0 sm:ml-2">[メールアドレスを入力]</dd></div>
+              <div className="flex flex-col sm:flex-row"><dt className="font-semibold w-48">販売業者</dt><dd className="ml-0 sm:ml-2">エイジラボ株式会社</dd></div>
+              <div className="flex flex-col sm:flex-row"><dt className="font-semibold w-48">運営統括責任者名</dt><dd className="ml-0 sm:ml-2">袴田 格</dd></div>
+              <div className="flex flex-col sm:flex-row"><dt className="font-semibold w-48">所在地</dt><dd className="ml-0 sm:ml-2">〒167-0043 東京都杉並区上荻2丁目39-17</dd></div>
+              <div className="flex flex-col sm:flex-row"><dt className="font-semibold w-48">電話番号</dt><dd className="ml-0 sm:ml-2">05017813215</dd></div>
+              <div className="flex flex-col sm:flex-row"><dt className="font-semibold w-48">メールアドレス</dt><dd className="ml-0 sm:ml-2">itaru.hakamada@age-lab.jp</dd></div>
               <div className="flex flex-col sm:flex-row"><dt className="font-semibold w-48">販売価格</dt><dd className="ml-0 sm:ml-2">月額 980円（税込）</dd></div>
               <div className="flex flex-col sm:flex-row"><dt className="font-semibold w-48">商品代金以外の必要料金</dt><dd className="ml-0 sm:ml-2">インターネット接続料金、通信料金等はお客様のご負担となります。</dd></div>
               <div className="flex flex-col sm:flex-row"><dt className="font-semibold w-48">お支払い方法</dt><dd className="ml-0 sm:ml-2">クレジットカード決済</dd></div>
