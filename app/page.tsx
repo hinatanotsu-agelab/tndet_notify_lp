@@ -8,7 +8,9 @@ export default function Home() {
       <header className="w-full flex justify-between items-center px-4 py-4 bg-white/90 shadow-sm sticky top-0 z-10">
         <div className="text-2xl font-bold tracking-tight text-[#0a1a36]">AI企業速報くん</div>
         <a
-          href="#"
+          href="https://lin.ee/6qpUXZF"
+          target="_blank"
+          rel="noopener noreferrer"
           className="bg-[#0051a8] text-white rounded-full px-6 py-2 font-semibold shadow hover:bg-[#003366] transition-colors"
         >
           LINEで登録
@@ -35,7 +37,9 @@ export default function Home() {
             TDnetの適時開示情報をリアルタイムで通知。英語の決算資料もAIが日本語で要約してLINEにお届けします。
           </p>
           <a
-            href="#"
+            href="https://lin.ee/6qpUXZF"
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-block bg-[#00c300] text-white font-bold rounded-full px-8 py-3 text-lg shadow-lg hover:bg-[#009900] transition-colors"
           >
             今すぐLINEで使い始める（無料）
