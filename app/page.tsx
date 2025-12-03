@@ -81,7 +81,7 @@ export default function Home() {
               <div className="font-bold text-lg mb-2">スタンダードプラン</div>
               <div className="text-2xl font-bold text-[#0051a8] mb-1">月額980円</div>
               <ul className="text-gray-700 text-sm mb-2">
-                <li>登録可能 10社まで</li>
+                <li>登録可能 50社まで</li>
                 <li>全機能利用可能</li>
               </ul>
             </div>
